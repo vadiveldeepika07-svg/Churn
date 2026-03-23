@@ -1,0 +1,9 @@
+  
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+python-multipart  # if you handle file uploads
+seaborn
